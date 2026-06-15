@@ -2,7 +2,7 @@
 
 A lightweight, single-file Markdown viewer with live preview. Drag and drop a `.md` file or paste markdown to view it instantly.
 
-**Live:** [https://pavneet-singh.github.io/md-viewer/](https://pavneet-singh.github.io/md-viewer/)
+**Live:** [https://pavnxet.github.io/md-viewer/](https://pavnxet.github.io/md-viewer/)
 
 ## Features
 
